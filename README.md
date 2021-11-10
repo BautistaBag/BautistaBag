@@ -1,6 +1,6 @@
 👋 Hi! I'm Bautista Bagnarol, Front-end web development
 
-📊 I've been in the programming for my first months.
+📊  I had worked in tech for 1 years.
 
-👩🏻‍💻 As developer i had worked with (and more): PHP,HTML,CSS,JavaScript,c++,PHPmyAdmin.
+👩🏻‍💻 As developer i had worked with (and more): PHP,HTML,CSS,JavaScript,C++,PHPmyAdmin.
         
