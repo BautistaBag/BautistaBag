@@ -2,5 +2,5 @@
 
 📊 I've been in the programming for my first months.
 
-👩🏻‍💻 As developer i had worked with (and more): PHP,HTML,CSS,JavaScript,c++.
+👩🏻‍💻 As developer i had worked with (and more): PHP,HTML,CSS,JavaScript,c++,PHPmyAdmin.
         
