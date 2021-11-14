@@ -1,4 +1,4 @@
-👋 Hi! I'm Bautista Bagnarol, Front-end web development
+👋 Hi! I'm Bautista Bagnarol, Software developer.
 
 📊  I had worked in tech for 1 years.
 
